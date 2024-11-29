@@ -1,0 +1,6 @@
+.vscode/
+.idea/
+node_modules/
+.env
+bun.lockb
+package-lock.json
